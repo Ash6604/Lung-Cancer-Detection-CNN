@@ -57,12 +57,8 @@ Grad-CAM visualizations confirm that the model focuses on meaningful lung region
 - **Cancer CT scans** → localized high activation
 - **Normal CT scans** → diffuse activation
 
-<p align="center">
-  <img src="<img width="393" height="433" alt="gradcam_cancer" src="https://github.com/user-attachments/assets/0ad93223-c218-4df0-b227-996db73210de" />
-" width="45%">
-  <img src="<img width="328" height="350" alt="gradcam_normal" src="https://github.com/user-attachments/assets/65abbf73-e56e-44f7-bef8-3c8919520586" />
-" width="45%">
-</p>
+![Grad-CAM Cancer](https://github.com/user-attachments/assets/0ad93223-c218-4df0-b227-996db73210de)
+![Grad-CAM Normal](https://github.com/user-attachments/assets/65abbf73-e56e-44f7-bef8-3c8919520586)
 
 ---
 
