@@ -58,16 +58,20 @@ Grad-CAM visualizations confirm that the model focuses on meaningful lung region
 - **Normal CT scans** → diffuse activation
 
 <p align="center">
-  <img src="figures/gradcam_cancer.png" width="45%">
-  <img src="figures/gradcam_normal.png" width="45%">
+  <img src="<img width="393" height="433" alt="gradcam_cancer" src="https://github.com/user-attachments/assets/0ad93223-c218-4df0-b227-996db73210de" />
+" width="45%">
+  <img src="<img width="328" height="350" alt="gradcam_normal" src="https://github.com/user-attachments/assets/65abbf73-e56e-44f7-bef8-3c8919520586" />
+" width="45%">
 </p>
 
 ---
 
 ## ROC & PR Curves
 <p align="center">
-  <img src="figures/roc_curve.png" width="45%">
-  <img src="figures/pr_curve.png" width="45%">
+  <img src="<img width="547" height="470" alt="roc_curve" src="https://github.com/user-attachments/assets/d4146adc-9f9a-42ec-b0d9-f5208defcf88" />
+" width="45%">
+  <img src="<img width="545" height="470" alt="pr_curve" src="https://github.com/user-attachments/assets/c07c0f89-7922-42f4-b3d0-83c74d7fbb9d" />
+" width="45%">
 </p>
 
 ---
